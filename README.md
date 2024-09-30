@@ -22,10 +22,6 @@ Go over the [pre-workshop requisites tutorial](./pre_reqs/pre-requisites.md) to 
 
 0. Pre-Workshop Requisites Check
 1. Introduction
-    1. LLMs and LLaMa Overview
-    2. What is RAG?
-    3. LLM Agent Architecture
-    4. Security and Privacy considerations
 2. Interactive Session
     1. *Langchain Basics:* Introduction to langchain. Inspect each block, make changes, and see how it affects the outputs.
     2. *Basic Agent:* Dive into a Jupyter notebook and get familiar with a basic agent. 
