@@ -39,9 +39,17 @@ Go over the [pre-workshop requisites tutorial](./pre_reqs/pre-requisites.md) to 
 
 ### Presenters bio
 
-**Sunandan Barman** has been working as a tech lead at Meta since 2017, guiding a team of six engineers to enhance the performance and scalability of the ML data platform for App Ads, ultimately impacting Meta's primary revenue sources. Sunandan is highly experienced backend developer with more than a decade of expertise in crafting scalable and distributed systems capable of handling immense loads
+*Prakash Murugesan, Machine Learning Engineer, Meta*
 
-**Cesar Gama** has over a decade of experience working in tech companies in Silicon Valley. He currently works at Meta as a technical lead, where he focuses on building reliable machine learning systems. He has also worked closely with cross-functional teams to identify and build monetization products in the GenAI space.
+Prakash Murugesan is a Machine Learning Engineer at Meta, leading the development of Multimodal LLM foundational models for international expansion. He has been instrumental in building the AI systems powering Meta’s Ray-Ban Smart Glasses, leveraging advanced multimodal techniques to integrate vision and language for an enhanced user experience. Previously, Prakash played a pivotal role in building the ML models responsible for growing Instagram Reels from a new product to one used globally by over a billion users. With a focus on scalable machine learning solutions, Prakash continues to push the boundaries of wearable AI technologies.
+
+Linkedin: https://www.linkedin.com/in/prakash-murugesan/
+
+*Srihari Jayakumar, Machine Learning Engineer and Researcher, Meta*
+
+Srihari Jayakumar is a machine learning engineer and researcher at Meta. Srihari’s primary research interests span computer vision (scene text recognition), multimodal large language models and NLP in general. Srihari has successfully led projects involving the development of multimodal AI capabilities for wearable devices, including the Ray-Ban Meta smart glasses. With a strong technical background in machine learning, Srihari is focused on creating innovative and impactful technology solutions.
+
+Linkedin: https://www.linkedin.com/in/srihari-j/
 
 ### License
 
