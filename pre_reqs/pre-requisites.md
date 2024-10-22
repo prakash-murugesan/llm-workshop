@@ -65,6 +65,15 @@ $ virtualenv venv
 $ source  venv/bin/activate
 ```
 
+Alternatively if you prefer to use Conda
+```
+# Create a new environment named 'ollama_env'
+$ conda create --name ollama_env
+
+# Activate the environment
+$ conda activate ollama_env
+```
+
 **Step 3: Install Required Libraries**
 
 Install the libraries listed in the requirements.txt file. Make sure your virtual environment is active.
