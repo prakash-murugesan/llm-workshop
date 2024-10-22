@@ -80,15 +80,22 @@ Install the libraries listed in the requirements.txt file. Make sure your virtua
 
 
 ```{SSH}
-(venv) $ pip install -r requirements.txt
+[optional]
+(ollama_env) conda install pip
+
+(ollama_env) $ pip install -r requirements.txt
 ```
+
+If you have trouble installing packages you may need to use Brew. Open Meta.ai and ask the LLM to work you through the installation instructions.
+
 
 **Step 4: Launch Jupyter Lab**
 
 In the virtual environment, launch jupyter lab to access the notebooks. 
 
 ```{SSH}
-(venv) $ jupyter-lab
+
+(ollama_env) $ jupyter-lab
 ```
 
 **Step 5: Configure Your IDE** 
