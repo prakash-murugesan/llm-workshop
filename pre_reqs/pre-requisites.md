@@ -68,7 +68,7 @@ $ source  venv/bin/activate
 Alternatively if you prefer to use Conda
 ```
 # Create a new environment named 'ollama_env'
-$ conda create --name ollama_env
+$ conda create --name ollama_env python=3.9
 
 # Activate the environment
 $ conda activate ollama_env
