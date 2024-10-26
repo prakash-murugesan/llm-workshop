@@ -50,7 +50,7 @@ The setup process consists of four steps, which can be completed either directly
 **Step 1: Clone the GitHub Repository**
 
 ```{SSH}
-$ git clone git@github.com:cgamamx/llm-workshop.git
+$ git clone git@github.com:prakash-murugesan/llm-workshop.git
 $ cd llm-workshop
 ```
 
@@ -65,7 +65,7 @@ $ virtualenv venv
 $ source  venv/bin/activate
 ```
 
-Alternatively if you prefer to use Conda
+Alternatively if you prefer to use Conda (I do!) 
 ```
 # Create a new environment named 'ollama_env'
 $ conda create --name ollama_env python=3.9
